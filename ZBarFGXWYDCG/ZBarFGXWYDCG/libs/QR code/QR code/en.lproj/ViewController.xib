@@ -158,7 +158,7 @@
 						<object class="NSColor" key="IBUITextColor">
 							<int key="NSColorSpace">3</int>
 							<bytes key="NSWhite">MAA</bytes>
-							<object class="NSColorSpace" key="NSCustomColorSpace" id="355762022">
+							<object class="NSColorSpace" key="NSCustomColorSpace">
 								<int key="NSID">2</int>
 							</object>
 						</object>
@@ -183,9 +183,8 @@
 				<reference key="NSWindow"/>
 				<reference key="NSNextKeyView" ref="1058095733"/>
 				<object class="NSColor" key="IBUIBackgroundColor">
-					<int key="NSColorSpace">3</int>
-					<bytes key="NSWhite">MC43NQA</bytes>
-					<reference key="NSCustomColorSpace" ref="355762022"/>
+					<int key="NSColorSpace">1</int>
+					<bytes key="NSRGB">MC45NjU4OTg3MjI2IDAuOTUyOTI1NDEwNiAwLjk1NDU3OTE1MTUAA</bytes>
 				</object>
 				<bool key="IBUIClearsContextBeforeDrawing">NO</bool>
 				<object class="IBUISimulatedStatusBarMetrics" key="IBUISimulatedStatusBarMetrics"/>

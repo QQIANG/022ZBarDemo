@@ -483,6 +483,7 @@
 				7C81E8731A399C3500D3B532 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C81E8741A399C3500D3B532 /* Build configuration list for PBXNativeTarget "ZBarFGXWYDCGTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				7C81E8761A399C3500D3B532 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

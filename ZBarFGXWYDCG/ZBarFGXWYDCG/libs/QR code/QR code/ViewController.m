@@ -74,7 +74,11 @@
      导入 libqrencode文件
      引入头文件#import "QRCodeGenerator.h" 即可使用
      */
-	imageview.image = [QRCodeGenerator qrImageForString:text.text imageSize:imageview.bounds.size.width];
+
+//	NSString *string_urls = @"https://itunes.apple.com/cn/app/zhong-guo-ren-cai-wang-guan/id898511296?mt=8";
+	NSString *string_urls = @"http://www.wandoujia.com/apps/com.cts.recruit";
+	imageview.image = [QRCodeGenerator qrImageForString:string_urls/*text.text*/
+											  imageSize:imageview.bounds.size.width];
     
 }
 
